@@ -9,7 +9,7 @@ public class Constants {
     public static final int EXPLICIT_WAIT_TIME=20;
 
     public static final String CREDENTIALS_FILEPATH=System.getProperty("user.dir")
-            +"/src/test/Configuration.properties";
+            +"/src/test/configuration.properties";
 
     public static final String REPORT_FILEPATH=System.getProperty("user.dir")+"/target/report/Hrms.html";
 
